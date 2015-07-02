@@ -1,0 +1,72 @@
+
+
+body{
+    background-image: url("bg.png");
+    background-color: #E2E2E2;
+}
+
+#cabecera{
+	background-image: url("bg.png");
+	text-align: center;
+	height: 200px;
+	background-color: #71D96D;
+}
+
+.container{
+    background-color: white;
+}
+
+nav{
+	font-family: 'Raleway', sans-serif;
+	font-weight: bold;
+}
+h1{
+	font-family: 'Raleway', sans-serif;
+}
+.well{
+	/* background-color: #71D96D; */
+}
+#sidebar{
+    //background-color: white;
+}
+
+#clear{
+     clear: both;
+}
+.clear {clear:both;}
+
+.col-md-9{
+    background-color: white;
+}
+.col-md-2{
+    //background-color: blue;
+}
+
+div.form span.required
+{
+	color: red;
+}
+
+.icon{
+    float: left;
+    margin: -5px 15px -5px -5px;
+}
+
+.clear{
+    clear: both;
+}
+
+#pie{
+    height: 100px;
+    background-color: #222222;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    font-size: 15px;
+    text-align: center;
+}
+li .nav-header{
+    text-transform: uppercase;     
+    font-weight: bolder;
+    background-color: #f5f5f5;
+     cursor: default;
+}
